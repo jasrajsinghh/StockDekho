@@ -1,6 +1,6 @@
-pip install yfinance
-pip install plotly.graph_objects
-pip install tweepy
+!pip install yfinance
+!pip install plotly.graph_objects
+!pip install tweepy
 
 
 import numpy as np
