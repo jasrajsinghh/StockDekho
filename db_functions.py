@@ -1,3 +1,8 @@
+pip install yfinance
+pip install plotly.graph_objects
+pip install tweepy
+
+
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
